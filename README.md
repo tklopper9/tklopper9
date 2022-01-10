@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tklopper9
 - 👀 I’m interested in all things coding, mostly with Python or C++
-- 🌱 I’m currently learning how to program Embedded Systems
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
